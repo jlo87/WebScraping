@@ -2,7 +2,7 @@
 
 import bs4, requests
 
-def getBookOutletPrice(productUrl): # 
+def getBookOutletPrice(productUrl): 
 	res = requests.get(productUrl) # Request to download the page
 	res.raise_for_status() # Raise an Exception if there is an issue
 
