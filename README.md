@@ -5,6 +5,6 @@ If you want to use python code that allows you to download static texts from web
 
 **You will need to have the following installed on your system:**
 
-'pip install beautifulsoup4'
+`pip install beautifulsoup4`
 
-'pip install requests'
+`pip install requests`
