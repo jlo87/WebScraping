@@ -1,4 +1,5 @@
 # Python code that can parse HTML with the Beautiful Soup Module.
+# In this example, I want to find the price of a particular book from bookoutlet.com.
 
 import bs4, requests
 
